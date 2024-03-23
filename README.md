@@ -1,5 +1,7 @@
 # Suraj Musmade
-
+## Contact:
+- musmades17@gmail.com
+- [LinkedIn](linkedin.com/in/suraj-musmade)
 ## Profession:
 Conversational AI Developer
 
@@ -59,6 +61,4 @@ Conversational AI Developer
 ## Mantra:
 Always curious about learning new things and looks forward to implementing what I learn passionately.
 
-## Contact:
-- musmades17@gmail.com
-- [LinkedIn](linkedin.com/in/suraj-musmade)
+
