@@ -1,0 +1,7 @@
+Hello, my name is Suraj Musmade and I am a Conversational AI Developer with a passion for creating exceptional user experiences through the development, testing, and deployment of chatbots. I have honed my skills at Accenture Solutions Pvt Ltd, where I have developed and deployed interactive chatbot applications using the Microsoft Bot Framework. My expertise lies in integrating Natural Language Processing techniques to enhance chatbots' understanding and response capabilities, as well as leveraging Microsoft Azure services for building scalable and robust solutions.
+
+I am a proud graduate of Sanjivani College of Engineering, where I earned my Bachelor of Engineering degree. My technical skills include Conversational AI Development, Azure Bot, Microsoft Bot Framework, ServiceNow Virtual Agent, Microsoft Azure, Natural Language Processing (NLP), Azure DevOps, Chatbot Design and Development, RESTful APIs, Problem-solving, Collaboration and Teamwork, and Python.
+
+I am also a certified professional, holding certificates in Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Microsoft Azure AI Fundamentals (AI-900), Microsoft Power Platform Fundamentals (PL-900), Microsoft Azure Fundamentals (AZ-900), and Microsoft 365 Fundamentals (MS-900).
+
+In addition to my professional achievements, I am fluent in English, Hindi, and Marathi, and have a passion for dance. My mantra in life is to always be curious about learning new things and to passionately implement what I learn.
